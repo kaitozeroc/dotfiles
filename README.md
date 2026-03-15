@@ -19,4 +19,4 @@
 > Repositori ini berisi beberapa komponen kunci dari setup saya:
 
 > * Rofi: Konfigurasi menu peluncur aplikasi dengan tema transparansi
->   80% dan nuansa cyan ala Hyprland.
+>   90% dan nuansa cyan ala Hyprland.
